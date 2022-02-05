@@ -11,25 +11,265 @@ L = Lecture
 R = Recitation  
 Q = Quiz
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction to Heat Transfer, Conduction, Fourier's Law | &nbsp; |
-| L2 | Conduction, Convection, and Radiation | Problem Set 1 assigned |
-| R1 | Recitation | &nbsp; |
-| L3 | Thermal Resistance Networks and Examples | &nbsp; |
-| L4 | Heat Transfer Enhancement—Fins & Extended Surfaces | Problem Set 1 due  {{< br >}}Problem Set 2 assigned |
-| R2 | Recitation | &nbsp; |
-| L5 | Heat Transfer Enhancement—Fins & Extended Surfaces | Problem Set 2 due  {{< br >}}Problem Set 3 assigned |
-| L6 | Heat Transfer Enhancement—Fins & Extended Surfaces (cont.) | &nbsp; |
-| L7 | Time-dependent Heat Transfer: Heat Equation | Problem Set 3 due  {{< br >}}Problem Set 4 assigned |
-| R3 | Review session for Quiz 1 | &nbsp; |
-| Q1 | Quiz 1 | &nbsp; |
-| L8 | Time-dependent Heat Transfer: Biot Number and Lumped Parameter Model, Examples | &nbsp; |
-| R4 | Recitation | &nbsp; |
-| L9 | Convection | &nbsp; |
-| L10 | Convection, Heat | Problem Set 4 due  {{< br >}}Problem Set 5 assigned |
-| R5 | Recitation | &nbsp; |
-| L11 | Heat Exchangers, Introduction to Phase Change | &nbsp; |
-| L12 | Wrap-up and Review for Quiz 2 | Problem Set 5 due |
-| R6 | Review Session for Quiz 2 | &nbsp; |
-| Q2 | Quiz 2 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Heat Transfer, Conduction, Fourier's Law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Conduction, Convection, and Radiation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal Resistance Networks and Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Heat Transfer Enhancement—Fins & Extended Surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due  
+Problem Set 2 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Heat Transfer Enhancement—Fins & Extended Surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 due  
+Problem Set 3 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Heat Transfer Enhancement—Fins & Extended Surfaces (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent Heat Transfer: Heat Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due  
+Problem Set 4 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Review session for Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent Heat Transfer: Biot Number and Lumped Parameter Model, Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Convection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Convection, Heat
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 due  
+Problem Set 5 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Heat Exchangers, Introduction to Phase Change
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up and Review for Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session for Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
